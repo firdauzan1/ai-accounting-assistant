@@ -18,36 +18,39 @@ Sistem Akuntansi berbasis AI untuk prediksi jurnal otomatis.
 - pip
 
 ### Langkah Instalasi
-1. Clone repository:
-```bash
+# Clone repository:
+
 git clone https://github.com/firdauzan/ai-accounting-assistant.git
+
 cd ai-accounting-assistant
 
-2. Install dependencies:
-```bash
+# Install dependencies:
+
 pip install -r requirements.txt
 
-3. Download spaCy model:
-```bash
+# Download spaCy model:
+
 python -m spacy download en_core_web_sm
 
-4. Jalankan aplikasi:
-```bash
+# Jalankan aplikasi:
+
 python machine_learning.py
 
 Login Credentials:
 
 username: admin
+
 password: admin
 
-5. Setup Data Files
+# Setup Data Files
 Pastikan file berikut ada di folder yang sesuai:
 
 logo.png (untuk icon aplikasi)
+
 data/chart_of_account.xlsx (daftar akun)
+
 data/normal_account_position.xlsx (posisi normal akun)
 
-### Cara Menjalankan:
-```bash
+# Cara Menjalankan:
 python machine_learning.py
 
