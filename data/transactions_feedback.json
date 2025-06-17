@@ -1,0 +1,436 @@
+[
+    {
+        "description": "buy equipment with cash",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "Equipment",
+                "type": "debit"
+            },
+            {
+                "description": "Cash",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment with cash",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "cash",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "gain revenue",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment payable",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "pay a debt",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "bad debt expense",
+                "type": "debit"
+            },
+            {
+                "description": "allowance for doubtful accounts",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "loan",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "cash",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "revaluation",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "accumulated depreciation\u2014equipment",
+                "type": "debit"
+            },
+            {
+                "description": "equipment",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "sell product",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "cash",
+                "type": "debit"
+            },
+            {
+                "description": "sales revenue",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "cash",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "Buy Equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "cash",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "buy equipment",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "equipment",
+                "type": "debit"
+            },
+            {
+                "description": "account payable",
+                "type": "credit"
+            }
+        ]
+    },
+    {
+        "description": "Sewa bangunan dengan utang",
+        "transaction_type": "user_feedback",
+        "entries": [
+            {
+                "description": "rent expense",
+                "type": "debit"
+            },
+            {
+                "description": "accounts payable",
+                "type": "credit"
+            }
+        ]
+    }
+]
